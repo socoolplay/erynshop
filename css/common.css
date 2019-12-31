@@ -151,3 +151,19 @@ section {
   /* width: 100%; */
 }
 
+#main_footer{
+  position: relative;
+  width: 100%;
+  text-align: center;
+  background: #1e1e1e;
+  padding: 50px 20px;
+  color: #ccc;
+  float: left;
+}
+#main_footer > p, #main_footer > address {
+  font-style: normal;
+  text-align: center;
+  font-size: 12px;
+  line-height: 2em;
+  margin: 10px;
+}
